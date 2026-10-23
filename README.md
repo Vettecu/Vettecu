@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello.
+
+I am a beginner python programmer that is still learning how to code, so don't expect a lot from me right now
+
+Contact: [Discord](https://discord.com/users/1043216099388428338)
 
 <!--
 **Vettecu/Vettecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
